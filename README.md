@@ -2,10 +2,10 @@
 
 Application web permettant à un établissement d'enseignement de gérer les étudiants, les matières, les notes, les emplois du temps, les annonces et les QCM, avec un **espace administrateur** et un **espace étudiant** distincts.
 
-Projet personnel de développement full-stack, réalisé pour mettre en pratique **PHP, MySQL, Bootstrap et JavaScript** dans un contexte réel de gestion scolaire.
+Projet réalisé dans le cadre d'un **stage de fin de 2ᵉ année de Licence (L2)** en Informatique, pour mettre en pratique **PHP, MySQL, Bootstrap et JavaScript** dans un contexte réel de gestion scolaire.
 
-> Application pédagogique — Portfolio personnel
-> Réalisé en autodidacte — année universitaire 2024-2025
+> Projet de stage — Licence 2 Informatique
+> École Nationale d'Informatique (ENI), Université de Fianarantsoa — année universitaire 2024-2025
 
 ---
 
@@ -356,15 +356,17 @@ L'étudiant accède à :
 - Visualisation de données avec **Chart.js**
 - Système de **notifications en temps réel** avec API JSON
 - **Chronométrage** côté client avec soumission automatique
+- Gestion de projet en environnement professionnel (stage)
 
 ---
 
-## 👨‍🎓 Contexte
+## 👨‍🎓 Contexte académique
 
 - **Auteur :** FANOMEZANTSOA Rantoniaina Harlivah
-- **Projet :** Application web de gestion scolaire
-- **Type :** Projet personnel / Portfolio
-- **Année :** 2024-2025
+- **Établissement :** École Nationale d'Informatique (ENI), Université de Fianarantsoa
+- **Niveau :** Licence 2 — Informatique
+- **Type :** Projet de stage de fin d'année (L2)
+- **Année universitaire :** 2024-2025
 - **Technologies principales :** PHP, MySQL, Bootstrap 5, JavaScript
 - **Dépôt GitHub :** https://github.com/Ranto-nyaina/Gestion_scolaire
 
