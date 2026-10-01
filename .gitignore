@@ -1,0 +1,22 @@
+# Composer
+/vendor/
+composer.lock
+
+# Configuration locale (à NE PAS partager)
+/config/database.php
+
+# Fichiers temporaires
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Uploads / exports
+/uploads/*
+!/uploads/.gitkeep
+/export/*.pdf
