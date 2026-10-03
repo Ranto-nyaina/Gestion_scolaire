@@ -5,7 +5,7 @@ Application web permettant à un établissement d'enseignement de gérer les ét
 Projet réalisé dans le cadre d'un **stage de fin de 2ᵉ année de Licence (L2)** en Informatique, pour mettre en pratique **PHP, MySQL, Bootstrap et JavaScript** dans un contexte réel de gestion scolaire.
 
 > Projet de stage — Licence 2 Informatique
-> École Nationale d'Informatique (ENI), Université de Fianarantsoa — année universitaire 2024-2025
+> École Nationale d'Informatique (ENI), Université de Fianarantsoa — année universitaire 2022-2023
 
 ---
 
@@ -366,7 +366,7 @@ L'étudiant accède à :
 - **Établissement :** École Nationale d'Informatique (ENI), Université de Fianarantsoa
 - **Niveau :** Licence 2 — Informatique
 - **Type :** Projet de stage de fin d'année (L2)
-- **Année universitaire :** 2024-2025
+- **Année universitaire :** 2022-2023
 - **Technologies principales :** PHP, MySQL, Bootstrap 5, JavaScript
 - **Dépôt GitHub :** https://github.com/Ranto-nyaina/Gestion_scolaire
 
